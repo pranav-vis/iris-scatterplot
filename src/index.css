@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: helvetica;
+}
+.tick line {
+  stroke: #C0C0BB;
+}
+.tick text,
+.axisLabel {
+  fill: #635F5D;
+}
+text{
+  fill: #635F5D;
+}
+.color-legend-item-text{
+cursor:default;
+}
